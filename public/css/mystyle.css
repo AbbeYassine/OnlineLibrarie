@@ -1,0 +1,16 @@
+
+#tab_checkout li {
+    line-height: 23px;
+}
+
+.form-group label {
+    font-size: 1.2rem;
+}
+
+.tabs .tab a {
+    color: #4fbfa8;
+}
+
+.tabs .tab a:hover, .tabs .tab.disabled a {
+    color: #C8E6C9;
+}
